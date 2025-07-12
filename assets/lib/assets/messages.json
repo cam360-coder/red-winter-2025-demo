@@ -6,7 +6,7 @@
         "nextMessage": "0.2", 
         "percentComplete": "", 
         "footerAnimation": "1", 
-        "delayBeforeNext": "3"
+        "delayBeforeNext": "5"
     }, 
     {
         "messageId": "0.2", 
@@ -46,7 +46,7 @@
     }, 
     {
         "messageId": "0.5", 
-        "messageText": "Great, we had lost you for a moment. ", 
+        "messageText": "x ", 
         "messageType": "0", 
         "nextMessage": "0.86", 
         "percentComplete": "", 
