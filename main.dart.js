@@ -62323,7 +62323,7 @@ while(true)switch(s){case 0:p=new A.Be()
 B.bJ.jt(p.ga46())
 q.at=p
 s=2
-return A.E(p.pl("ru-RU"),$async$jF)
+return A.E(p.pl("en-US"),$async$jF)
 case 2:s=3
 return A.E(q.at.pr(1),$async$jF)
 case 3:s=4
