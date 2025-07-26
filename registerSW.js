@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/red-winter-2025-demo/sw.js', { scope: '/red-winter-2025-demo/' })})}
